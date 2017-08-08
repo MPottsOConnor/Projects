@@ -9,3 +9,5 @@ The program was written in C#. Some of the code is reworked code from the origin
 
 - Please see ->NewConsole->ConsoleApplication1-> 'signaturexmlwrapper.cs, Program.cs and compinfo.cs to see how the crack was done.
 - Another crack was also achieved by decompiling the assembly code and removing the check for the registration. Unfortunately I cannot seem to find this crack anymore.
+
+Please note that I did not design the original windows app, nor its security.
