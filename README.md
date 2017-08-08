@@ -1,4 +1,4 @@
-# Simple projects
+# Cracking A Simple Windows App
 
 The purpose of this program is to crack a basic windows app so that the registration key is no longer required.
 The program was written in C#. Some of the code is reworked code from the original windows app. DotPeek was used to discover the original code.
