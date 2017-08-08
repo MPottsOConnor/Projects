@@ -1,30 +1,11 @@
 # Simple projects
 
-These are a bunch of simple assigned exercizes using HTML, CSS, Javascript, jquery, java servlets and JSP.
-Some of these are probably a little too simple but it demonstrates some basic knowledge.
-For any code that has a "Complete function" comment, all of the code within the function was written by me, only the function names were given.
-Some of these pages only work on certain browsers.
+The purpose of this program is to crack a basic windows app so that the registration key is no longer required.
+The program was written in C#. Some of the code is reworked code from the original windows app. DotPeek was used to discover the original code.
 
+1. Run the 'ConsoleApplication.exe' file without Licence.xml and Public.xml in the folder
+2. The app should write both these files
+3. You may then open w3Client.exe without any registration key
 
-
-Portfolio1:
-1 - Formatting a table in HTML
-2 - Using CSS and html to hide a hyperlink in an image, and formatting borders
-3 - Using CSS and html to place a film and formatting borders
-
-Portfolio2:
-
-1 - Using CSS to resize an image (hover over 'Now Open')
-2 - Basic Photo gallery using CSS
-3 - Basic Photo gallery using mostly javascript
-
-Portfolio3: 
-
-1 - Format a page using jquery
-2 - Basic customer input HTML page that requires certian fields be filled in
-3 - A slider that can be sped up/slowed down with an action bar (jquery)
-
-Portfolio4:
-
-java servlets (src/ictgradschool) for handling input from WebContent/ the .jsp file. Will need a server to run, 
-but the code is still accessible. 
+- Please see ->NewConsole->ConsoleApplication1-> 'signaturexmlwrapper.cs, Program.cs and compinfo.cs to see how the crack was done.
+- Another crack was also achieved by decompiling the assembly code and removing the check for the registration. Unfortunately I cannot seem to find this crack anymore.
